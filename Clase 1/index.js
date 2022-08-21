@@ -1,26 +1,26 @@
 /* //Forma de declarar variable (no recomendada)
 var edad;
 
-//Declaramos nuestra primera variable (declaracion de variable), sustituye a "var" que se usaba antes
+Declaramos nuestra primera variable (declaracion de variable), sustituye a "var" que se usaba antes
 let nombre = "Chuy";
 let apellido;
 
-//variable que no se va a cambiar, es constante. Siempre q se pone una constante se tiene que asignar el valor
-// Siempre se pone en MAYUSCULA
+variable que no se va a cambiar, es constante. Siempre q se pone una constante se tiene que asignar el valor
+Siempre se pone en MAYUSCULA
 const EDAD = 15;
 
-// Si ponemos una asignacion dentro de " " se vuelve texto
+Si ponemos una asignacion dentro de " " se vuelve texto
 apellido = "Vega"; */
 
 
-// //Ejemplo
+//Ejemplo
 // let numeroUno = 2;
 // let numeroDos = 10;
 // const NUMEROTRES = 20;
 
 // let suma = numeroUno + numeroDos;
 
-// // Console.log() sirve para mostrar las funciones en la consola 
+// Console.log() sirve para mostrar las funciones en la consola 
 // console.log("Aqui vemos el valor de la suma", suma * NUMEROTRES);
 
 
