@@ -100,3 +100,52 @@ if(edad < 15){
 alert("Gracias por ingresar tu edad") */
 
 
+//__________________________________________________
+
+//Operadores Logicos
+
+/* && solo es verdadero cuando las condiciones involucrada son verdaderas, de lo contrario es falso 
+
+|| es verdadero cuando al menos una condicion es verdadera, de lo contrario es falso */
+
+/* 
+let respuestaTarea = prompt("¿Terminaste la tarea?")
+let respuestaCasa = prompt("¿Organizaste la casa?")
+
+if(respuestaTarea.toLowerCase() === "si" && respuestaCasa.toLowerCase() === "si"){
+    alert("Puedes salir a jugar")
+}else{
+    alert("No puede salir a jugar")
+}  */
+
+
+/* let nombre = prompt("Ingresa tu nombre");
+
+if((nombre == "andres" || nombre == "ANDRES") && (nombre !== "")){
+    alert("Hola andres!!")
+}else{
+    alert("Ingrese nombre correcto alv!");
+} */
+
+
+/* let numero = parseInt(prompt("Ingresa un numero")); 
+
+if(numero > 1000){
+    alert("Salaverga es un chingo!");
+} */
+
+
+/* let saludo = prompt("Ingresa saludo");
+
+if(saludo = "Hola"){
+    console.log("Hola jtos");
+} */
+
+
+let numeroDos = parseInt(prompt("Ingresa un numero")); 
+
+if(numeroDos > 10 && numeroDos < 50 ){
+ alert("Todo chido oficial");
+}else{
+    alert("Salaverga te mamaste");
+}
