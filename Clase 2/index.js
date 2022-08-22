@@ -142,10 +142,10 @@ if(saludo = "Hola"){
 } */
 
 
-let numeroDos = parseInt(prompt("Ingresa un numero")); 
+/* let numeroDos = parseInt(prompt("Ingresa un numero")); 
 
 if(numeroDos > 10 && numeroDos < 50 ){
  alert("Todo chido oficial");
 }else{
     alert("Salaverga te mamaste");
-}
+} */
