@@ -1,6 +1,5 @@
 //Login de usuario
 
-
 let user = prompt("Introduzca tu usuario");
 let pass = prompt("Introduzca tu contraseña, tienes 3 intentos");
 let intentos = 2;
